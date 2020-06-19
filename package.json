@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "kind-of": "6.0.2",
+    "minimist": "0.2.0"
+  }
+}
